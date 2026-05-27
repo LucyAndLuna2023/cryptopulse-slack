@@ -1,0 +1,19 @@
+
+=== CryptoPulse Demo ===
+
+User: @CryptoPulse price btc
+CryptoPulse: 📊 BTC/USDT: $75,990.01
+
+User: @CryptoPulse signal
+CryptoPulse: 📈 实时信号:
+⚪ BTCUSDT: HOLD
+⚪ ETHUSDT: HOLD
+🟢 BNBUSDT: BUY
+⚪ SOLUSDT: HOLD
+
+User: @CryptoPulse report
+CryptoPulse: 📊 每日报告 05-27:
+• BTC: $75,990 [HOLD]
+• ETH: $2,100 [HOLD]
+• BNB: $658 [BUY]
+• SOL: $84 [HOLD]
